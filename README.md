@@ -1,2 +1,2 @@
 # typescript-exceljs-example
-TypeScript ExcelJS example
+TypeScript <a href="https://www.npmjs.com/package/exceljs">ExcelJS</a> example
